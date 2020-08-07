@@ -4,7 +4,7 @@
 title:       Junior Theme
 email:       sojung.lynne@gmail.com
 author:      So Jung Kang
-description: "A striking black-white Jekyll theme."
+description: "."
 baseurl:     ""
 url:         "https://sojungkang.github.io/"
 date_format: "%b %-d, %Y"
@@ -56,14 +56,14 @@ facebook_comments_number: 10
 github_username: sojungkang
 bitbucket_username:
 stackoverflow_id:
-twitter_username: jonobelotti_io
+twitter_username: 
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username: jonathonbelotti
+linkedin_username: so-jung-kang
 angellist_username:
-medium_id: thundergolfer
-youtube_channel_id: UCSP7fMKwmaXaZhViAV2Vgvg
+medium_id: sojkang23
+youtube_channel_id: 
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -76,10 +76,10 @@ show_sharing_icons: True
 share_facebook: True
 share_twitter: True
 share_googleplus: True
-share_linkedin: false
+share_linkedin: True
 share_digg: false
 share_tumblr: false
-share_reddit: True
+share_reddit: false
 share_stumbleupon: false
 share_hackernews: True
 
