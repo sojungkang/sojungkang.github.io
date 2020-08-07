@@ -2,11 +2,11 @@
 ## Site settings                    ##
 ######################################
 title:       Junior Theme
-email:       jonathon.bel.melbourne@gmail.com
-author:      Jonathon Belotti
+email:       sojung.lynne@gmail.com
+author:      So Jung Kang
 description: "A striking black-white Jekyll theme."
 baseurl:     ""
-url:         "https://juniortheme.live/"
+url:         "https://sojungkang.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -53,7 +53,7 @@ facebook_comments_number: 10
 ###################################
 ## Social icons                  ##
 ###################################
-github_username: thundergolfer
+github_username: sojungkang
 bitbucket_username:
 stackoverflow_id:
 twitter_username: jonobelotti_io
